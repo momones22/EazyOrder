@@ -1,0 +1,12 @@
+@media(min-width: 768px){
+    .email-input{
+        width: 50%;
+    }
+}
+.costum-text-color{
+    color: #f39d1e;
+    }
+
+.bg-costum-color{
+    background-color: #f39d1e;
+    }
